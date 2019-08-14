@@ -1,4 +1,6 @@
-﻿# <span style="line-height:1.5"> Environmental impact of open ground PV displacing corn production in the USA </span>
+﻿For a version including figures click here: https://nbviewer.jupyter.org/github/BenPortner/LUC/blob/master/LUC_PV.html
+ 
+ # <span style="line-height:1.5"> Environmental impact of open ground PV displacing corn production in the USA </span>
 
 
 Author: Benjamin W. Portner, Bauhaus Luftfahrt e.V., Willy-Messerschmitt-Straße 1, 82024 Taufkirchen
